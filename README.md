@@ -2,8 +2,8 @@
 Linuxプラクティス
 ___________________
 
-$ ls / \r
-$ ls / usr \r
+<p>$ ls /</p>
+<p>$ ls / usr </p>
 $ cd 
 $ pws
 $ mkdir(make directory)
