@@ -1,1 +1,300 @@
-history 300
+  214  ls
+  215  git add .
+  216  git status
+  217  git bnranch
+  218  git branch
+  219  git commit -m 'linux 課題２'
+  220  git push origin 2.server_lesson
+  221  cd /vagrant/server_lesson/linux_practice2
+  222  ls
+  223  cd document
+  224  cd documents
+  225  ls
+  226  touch gizumo{01..50}.md
+  227  ls
+  228  cd ../
+  229  mv gizumo{20..40}.md trash
+  230  cd documents
+  231  mv gizumo{20..40}.md trash
+  232  mv gizumo{20..40}.md ../trash
+  233  ls
+  234  cd ../
+  235  ls
+  236  cd trash
+  237  ls
+  238  cd ../
+  239  vi .gitignore
+  240  ls
+  241  ls -ar
+  242  echo 'history 300' > exec_command.log
+  243  cat exec_command.log
+  244  ls
+  245  git add .
+  246  git status
+  247  git commit -m 'linux_le
+  248  q
+  249  exit
+  250  dwed;
+  251  ;
+  252  ';
+  253  git reset --sort HEAD^
+  254  git reset --soft HEAD^
+  255  git status
+  256  git commit -m 'linux� 課題２'
+  257  git push origin 2.server_lesson
+  258  git checkout master
+  259  cd /
+  260  cd /vagrant
+  261  git checkout master
+  262  git branch
+  263  cd server_lesson
+  264  git checkout master
+  265  git branch
+  266  git checkout master
+  267  git checkout .
+  268  git checkout master
+  269  git clean -f
+  270  git branch
+  271  cd linux_practice2
+  272  ls
+  273  ls -ar
+  274  cd trash
+  275  la
+  276  ls
+  277  cd../
+  278  cd documents
+  279  cd ../documents
+  280  ls
+  281  cd../
+  282  cd ../
+  283  git checkout master
+  284  git stash
+  285  git stash clear
+  286  git checkout master
+  287  git checkout linux_practice1/public/index.php
+  288  git add .
+  289  git status
+  290  git checkout master
+  291  git branch
+  292  ls
+  293  vi README.md
+  294  cd linix_practice1 && ls
+  295  cd linux_practice1 && ls
+  296  cd pubric
+  297  cd public
+  298  ls
+  299  cd ../tmp && ls
+  300  git add .
+  301  git commit -m 'linux 課題１'
+  302  git compush origin master
+  303  cd ../
+  304  git add .
+  305  git status
+  306  git commit -m 'linux 課題１'
+  307  git push origin master
+  308  �exit
+  309  exit
+  310  sudo yum -y install httpd
+  311  httpd -v
+  312  sudo vi /etc/httpd/conf/httpd.conf
+  313  sudo systemctl start httpd
+  314  sudo systemctl status httpd
+  315  sudo vi /etc/httpd/conf/httpd.conf
+  316  sudo systemctl start httpd
+  317  sudo systemctl status httpd
+  318  sudo systemctl start firewalld.service
+  319  sudo firewall-cmd --add-service=http --zone=public --permanent
+  320  sudo firewall-cmd --reload
+  321  sudo systemctl restart httpd
+  322  sudo systemctl start httpd
+  323  sudo systemctl status httpd
+  324  sudo vi /etc/selinux/config
+  325  exit
+  326  sudo systemctl start httpd
+  327  sudo vi /etc/httpd/conf/httpd.conf
+  328  sudo systemctl start httpd
+  329  sudo systemctl status httpd
+  330  sudo vi /etc/httpd/conf/httpd.conf
+  331  sudo systemctl start httpd
+  332  sudo systemctl status httpd
+  333  exit
+  334  sudo systemctl start httpd
+  335  sudo systemctl status httpd
+  336  sudo vi /etc/httpd/conf/httpd.conf
+  337  sudo systemctl start httpd
+  338  sudo systemctl status httpd
+  339  ls
+  340  cd /vagrant
+  341  ls
+  342  sudo vi /etc/httpd/conf/httpd.conf
+  343  sudo systemctl start httpd
+  344  sudo systemctl status httpd
+  345  sudo vi /etc/httpd/conf/httpd.conf
+  346  sudo systemctl start httpd
+  347  sudo systemctl status httpd
+  348  service httpd restart
+  349  sudo systemctl start httpd
+  350  sudo vi /etc/httpd/conf/httpd.conf
+  351  sudo systemctl start httpd
+  352  service httpd restart
+  353  sudo systemctl status httpd
+  354  sudo vi /etc/httpd/conf/httpd.conf
+  355  ls
+  356  exit
+  357  sudo vi /etc/httpd/conf/httpd.conf
+  358  service httpd restart
+  359  ;
+  360  sudo systemctl start httpd
+  361  sudo systemctl status httpd
+  362  exit
+  363  cd server_lesson
+  364  cd /vagrant/server_lesson
+  365  ls
+  366  ls /vagrant
+  367  cd /vagrant
+  368  git clone https://github.com/jinfoy/sever_lesson.git
+  369  ls
+  370  exit
+  371  ls
+  372  exit
+  373  cd /vagrant
+  374  ls
+  375  git clonehttps://github.com/jinfoy/sever_lesson.git
+  376  ls
+  377  git clone https://github.com/jinfoy/sever_lesson.git
+  378  ls
+  379  cd sever_lesson
+  380  git status
+  381  git add README.md
+  382  git status
+  383  git commit -m '文字化け修正'
+  384  git push origin master
+  385  ls
+  386  cd ../
+  387  ls
+  388  ls laravelapp
+  389  sudo vi /etc/httpd/conf/httpd.conf
+  390  sudo systemctl start httpd
+  391  systemctl status httpd.service
+  392  sudo vi /etc/httpd/conf/httpd.conf
+  393  journalctl -xe
+  394  ls /var/log/
+  395  ls /var/log/httpd/
+  396  sudo ls /var/log/httpd/
+  397  sodo cat var/log/httpd/
+  398  sudo cat var/log/httpd/
+  399  sudo cat var/log/httpd/error_log
+  400  sudo cat /var/log/httpd/error_log
+  401  sudo systemctl start httpd
+  402  sudo vi /etc/httpd/conf/httpd.conf
+  403  sudo systemctl start httpd
+  404  sudo vi /etc/httpd/conf/httpd.conf
+  405  sudo systemctl start httpd
+  406  sudo vi /etc/httpd/conf/httpd.conf
+  407  sudo systemctl start httpd
+  408  sudo vi /etc/httpd/conf/httpd.conf
+  409  ls /var/www
+  410  ls /var/www/html
+  411  ls -la /var/www/html
+  412  touch /var/www/html/index.html
+  413  sudo touch /var/www/html/index.htm
+  414  sudo systemctl stop httpd
+  415  sudo systemctl status httpd
+  416  sudo systemctl start httpd
+  417  sudo systemctl status httpd
+  418  sudo vi /etc/httpd/conf/httpd.conf
+  419  sudo systemctl restart httpd
+  420  sudo systemctl status httpd
+  421  sudo vi /etc/httpd/conf/httpd.conf
+  422  ls /vagrant/laravelapp/public
+  423  sudo systemctl status httpd
+  424  sudo systemctl stop httpd
+  425  sudo systemctl start httpd
+  426  sudo systemctl status httpd
+  427  sudo vi /etc/httpd/conf/httpd.conf
+  428  sudo systemctl stop httpd
+  429  sudo systemctl start httpd
+  430  sudo systemctl stop httpd
+  431  sudo systemctl start httpd
+  432  sudo vi /etc/httpd/conf/httpd.conf
+  433  sudo systemctl start httpd
+  434  sudo systemctl stop httpd
+  435  sudo systemctl start httpd
+  436  sudo vi /etc/httpd/conf/httpd.conf
+  437  sudo systemctl start httpd
+  438  systemctl status httpd.service
+  439  journalctl -xe
+  440  sudo journalctl -xe
+  441  sudo vi /etc/httpd/conf/httpd.conf
+  442  sudo systemctl start httpd
+  443  sudo systemctl status httpd
+  444  ls /vagrant/laravelapp/public
+  445  exit
+  446  sudo tail -f /var/log/httpd/error_log
+  447  sudo vi /etc/httpd/conf/httpd.conf
+  448  sudo systemctl start httpd
+  449  sudo systemctl status httpd
+  450  exit
+  451  sudo wget http://dev.mysql.com/get/mysql57-community-release-el7-7.noarch.rpm
+  452  sudo rpm -Uvh mysql57-community-release-el7-7.noarch.rpm
+  453  sudo yum install -y mysql-community-server
+  454  mysql --version
+  455  sudo systemctl start mysqld
+  456  mysql -u root -p
+  457  sudo cat /var/log/mysqld.log | grep 'temporary password'
+  458  mysql -u root -p
+  459  sudo vi /etc/my.cnf
+  460  sudo systemctl restart mysqld
+  461  mysql -u root -p
+  462  cd /vagrant/testApp
+  463  php artisan migrate
+  464  exit
+  465  cd /vagrant/testApp
+  466  php artisan migrate
+  467  mysql -u root -p
+  468  php artisan migrate
+  469  vagrant halt
+  470  exit
+  471  sudo systemctl status httpd
+  472  sudo systemctl stop httpd
+  473  sudo systemctl status httpd
+  474  sudo vi /etc/yum.repos.d/nginx.repo
+  475  sudo yum install -y nginx
+  476  nginx -v
+  477  sudo systemctl start nginx
+  478  sudo vi /etc/nginx/conf.d/default.conf
+  479  sudo vi /etc/php-fpm.d/www.conf
+  480  sudo systemctl restart nginx
+  481  sudo systemctl start php-fpm
+  482  exit
+  483  cd /vagrant/sever_lesson
+  484  vi README.md
+  485  git branch
+  486  cd linux_practice2
+  487  git branch
+  488  ls
+  489  git merge 2.sever_lesson
+  490  git reflog
+  491  git branch 3c0b29e HEAD@{0}
+  492  git branch
+  493  mkdir documents
+  494  ls
+  495  mv gizumo{01..19}.md ./documents
+  496  ls
+  497  mv gizumo{41..50}.md ./documents
+  498  ls
+  499  cd documents
+  500  ls
+  501  cd /vagrant
+  502  ls
+  503  cd sever_lesson
+  504  ls
+  505  cd linux_practice2
+  506  vi .gitignore
+  507  history300 > exec_command.log
+  508  cd 
+  509  cd /vagrant/sever_lesson
+  510  cd linux_practice2
+  511  ls
+  512  history3
+  513  history 300 > exec_command.log

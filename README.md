@@ -1,9 +1,9 @@
 # サーバレッスン
-Limuxプラクティス
+Linuxプラクティス
 ___________________
 
-$ ls /
-$ ls / usr
+$ ls / \r
+$ ls / usr \r
 $ cd 
 $ pws
 $ mkdir(make directory)
@@ -15,7 +15,7 @@ $ mv(move)
 $ rm(remove)
 $ rm -r
 $ rm -rf /
-$ *
+i$ *
 $ ?
 $ >
 $ >>
